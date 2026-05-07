@@ -1,105 +1,40 @@
-<h1 align="center">Hi 👋, I'm Nour El-Sharkawy</h1>
-<h3 align="center">Cybersecurity Student @ MUFAI 🛡️ | Mobile Developer 📱</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nour+El-Sharkawy;Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Mobile+%26+Secure+Solutions;Initializing+Profile..." alt="Typing SVG" />
+</h1>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Flutter+%26+Dart+Developer;C%2B%2B+Programmer;Building+Secure+Systems" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Security-Cybersecurity-00FF99?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C++-00FF99?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20&%20Dart-00FF99?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently studying **Cybersecurity at the Faculty of Artificial Intelligence, Menoufia University (MUFAI)**.
-- 💻 I love building scalable applications using **Flutter & Dart** and writing clean, object-oriented **C++** code.
-- 🛡️ Passionate about creating secure tech solutions and participating in Hackathons.
-- 🌙 Fun fact: I run on Dark Mode, VS Code Neon Themes, and good coffee.
+### 👨‍💻 System Status
+- 🔭 **Studying:** **Cybersecurity at MUFAI (Faculty of AI, Menoufia University)**. 🤖 Egypt's future defenders.
+- 💻 **Tech Interests:** Building **scalable mobile apps** (Flutter/Dart), writing clean, **object-oriented C++** code, and securing it all.
+- 🌙 **Fun Fact:** I run on VS Code Neon Themes, good coffee, and lots of caffeine. ☕
+- 🛡️ **Hackathon Addict** & always learning how to secure systems.
 
-### 🛠️ My Tech Stack
-<p align="left">
+### 🛠️ Tech Stack <kbd>System.init()</kbd>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,c,python,github,vscode,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,c,python,bash,github,vscode,linux,kali&theme=dark" />
   </a>
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
+### 📈 Contribution Stats <kbd>System.status()</kbd>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourelsharkawy6300-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nour's Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=nourelsharkawy6300-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nour's GitHub Stats" />
 </p>
-
----
 <p align="center">
-  <b>Let's connect and build something awesome! 🚀</b>
-</p>
-<!--
-**nourelsharkawy6300-maker/nourelsharkawy6300-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Hi 👋, I'm Nour El-Sharkawy</h1>
-<h3 align="center">Cybersecurity Student @ MUFAI 🛡️ | Mobile Developer 📱</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Flutter+%26+Dart+Developer;C%2B%2B+Programmer;Building+Secure+Systems" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🔭 I’m currently studying **Cybersecurity at the Faculty of Artificial Intelligence, Menoufia University (MUFAI)**.
-- 💻 I love building scalable applications using **Flutter & Dart** and writing clean, object-oriented **C++** code.
-- 🛡️ Passionate about creating secure tech solutions and participating in Hackathons.
-- 🌙 Fun fact: I run on Dark Mode, VS Code Neon Themes, and good coffee.
-
-### 🛠️ My Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,c,python,github,vscode,linux&theme=dark" />
-  </a>
-</p>
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nourelsharkawy6300-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nour's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourelsharkawy6300-maker&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nour's GitHub Streak" />
 </p>
 
 ---
 <p align="center">
-  <b>Let's connect and build something awesome! 🚀</b>
-</p>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm Nour El-Sharkawy</h1>
-<h3 align="center">Cybersecurity Student @ MUFAI 🛡️ | Mobile Developer 📱</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Flutter+%26+Dart+Developer;C%2B%2B+Programmer;Building+Secure+Systems" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🔭 I’m currently studying **Cybersecurity at the Faculty of Artificial Intelligence, Menoufia University (MUFAI)**.
-- 💻 I love building scalable applications using **Flutter & Dart** and writing clean, object-oriented **C++** code.
-- 🛡️ Passionate about creating secure tech solutions and participating in Hackathons.
-- 🌙 Fun fact: I run on Dark Mode, VS Code Neon Themes, and good coffee.
-
-### 🛠️ My Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,c,python,github,vscode,linux&theme=dark" />
-  </a>
-</p>
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nourelsharkawy6300-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nour's GitHub Stats" />
-</p>
-
----
-<p align="center">
-  <b>Let's connect and build something awesome! 🚀</b>
+  Let's connect and secure something awesome! 🛡️⚡
 </p>
