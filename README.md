@@ -13,10 +13,10 @@
 ---
 
 ### 👨‍💻 System Status
-- 🔭 **Studying:** **Cybersecurity at MUFAI (Faculty of AI, Menoufia University)**. 🤖
-- 💻 **Tech Interests:** Building **scalable mobile apps** (Flutter/Dart), writing clean, **object-oriented C++** code, and securing it all.
-- 🌙 **Fun Fact:** I run on VS Code Neon Themes, good coffee, and lots of caffeine. ☕
-- 🛡️ **Hackathon Addict** & always learning how to secure systems.
+- 🔭 **Studying:** **Cybersecurity at MUFAI** (Faculty of AI, Menoufia University) 🤖
+- 💻 **Tech Interests:** Building **Scalable Mobile Apps** (Flutter/Dart) & writing **Secure C++** code.
+- 🌙 **Fun Fact:** Powered by VS Code Neon Themes & Coffee ☕
+- 🛡️ **Focus:** Hackathons & System Security.
 
 ### 🛠️ Tech Stack <kbd>System.init()</kbd>
 <p align="center">
@@ -25,16 +25,24 @@
   </a>
 </p>
 
+---
+
 ### 📈 Contribution Stats <kbd>System.status()</kbd>
+
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourelsharkawy6300-maker&layout=compact&theme=radical&hide_border=true&bg_color=141321" alt="Nour's Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nourelsharkawy6300-maker&show_icons=true&theme=radical&hide_border=true&bg_color=141321" alt="Nour's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nourelsharkawy6300-maker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourelsharkawy6300-maker&theme=radical&hide_border=true&bg_color=141321" alt="Nour's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourelsharkawy6300-maker&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourelsharkawy6300-maker&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
+
 <p align="center">
   Let's connect and secure something awesome! 🛡️⚡
 </p>
