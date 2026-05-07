@@ -1,49 +1,40 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=ROOT@NOUR_ELSHARKAWY:~$+INIT;STUDENT+@+MUFAI;CYBER+SECURITY+EXPERT;FLUTTER+DEVELOPER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=FE428E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nour+El-Sharkawy;Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Mobile+%26+Secure+Solutions;Initializing+Profile..." alt="Typing SVG" />
 </h1>
 
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Security-Cybersecurity-FF00FF?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-C++-00FFFF?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter-FF00FF?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Cybersecurity-FE428E?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C++-FE428E?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20&%20Dart-FE428E?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
-### 🟢 [SYSTEM_STATUS]: ONLINE
+### 👨‍💻 System Status
+- 🔭 **Studying:** **Cybersecurity at MUFAI (Faculty of AI, Menoufia University)**. 🤖
+- 💻 **Tech Interests:** Building **scalable mobile apps** (Flutter/Dart), writing clean, **object-oriented C++** code, and securing it all.
+- 🌙 **Fun Fact:** I run on VS Code Neon Themes, good coffee, and lots of caffeine. ☕
+- 🛡️ **Hackathon Addict** & always learning how to secure systems.
 
-- **User:** Nour El-Sharkawy
-- **Faculty:** AI @ MUFAI
-- **Main Stack:** C++ & Flutter
-- **Security Gear:** Kali Linux | HP ZBook G6 (32GB RAM)
-
----
-
-### 🛡️ TECHNICAL_STACK
+### 🛠️ Tech Stack <kbd>System.init()</kbd>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,c,python,bash,linux,kali,github,vscode,git,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,c,python,bash,github,vscode,linux,kali&theme=dark" />
   </a>
 </p>
 
----
-
-### 📈 NEURAL_NETWORK_STATS
-
+### 📈 Contribution Stats <kbd>System.status()</kbd>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nourelsharkawy6300-maker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF&icon_color=00FFFF" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourelsharkawy6300-maker&layout=compact&theme=radical&hide_border=true&bg_color=141321" alt="Nour's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nourelsharkawy6300-maker&show_icons=true&theme=radical&hide_border=true&bg_color=141321" alt="Nour's GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourelsharkawy6300-maker&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourelsharkawy6300-maker&theme=radical&hide_border=true&bg_color=0D1117&stroke=FF00FF&ring=00FFFF&fire=FF00FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourelsharkawy6300-maker&theme=radical&hide_border=true&bg_color=141321" alt="Nour's GitHub Streak" />
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=---EOF---+Connection+Secured+---" alt="Typing SVG" />
+  Let's connect and secure something awesome! 🛡️⚡
 </p>
