@@ -38,3 +38,23 @@
 <p align="center">
   Let's connect and secure something awesome! 🛡️⚡
 </p>
+# Hi there 👋, I'm Nour El-Sharkawy
+
+**Artificial Intelligence Student | Cybersecurity Enthusiast | Full-Stack Developer**
+
+I am a second-year AI student with over 250+ hours of intensive, hands-on training in network security and application vulnerability assessment. I thrive in competitive environments and enjoy building secure, AI-driven software prototypes.
+
+### 🛠️ Tech Stack & Tools
+- **Cybersecurity:** Penetration Testing, Network Security, Vulnerability Assessment, OWASP.
+- **Development:** PHP, Python, C++, Flutter, Dart.
+- **Databases & Tools:** Firebase, Git/GitHub, Rapid Prototyping.
+
+### 🚀 What I'm Up To
+- 🎓 Studying Artificial Intelligence at Menoufia University.
+- 🛡️ Applying advanced network defense and penetration testing methodologies learned through NTI and ITIDA.
+- 🏆 Actively competing in regional and global tech hackathons (Hult Prize, NASA Space Apps, Tech Spark).
+- 🤝 Participating in GDG Menoufia and actively contributing to student tech communities.
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/nour-mawhoub](https://linkedin.com/in/nour-mawhoub)
+- **Email:** nourelsharkawy6300@gmail.com
