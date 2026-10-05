@@ -1,60 +1,35 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=FE428E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nour+El-Sharkawy;Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Mobile+%26+Secure+Solutions;Initializing+Profile..." alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70054&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;AI+%26+Full-Stack+Developer;Hackathon+Addict" alt="Typing SVG" />
+</div>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Security-Cybersecurity-black?style=for-the-badge&logo=security" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter_%26_Dart-02569B?style=for-the-badge&logo=flutter" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Web-PHP_%26_Full_Stack-4CAF50?style=for-the-badge&logo=php" alt="Web Dev" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Security-Cybersecurity-FE428E?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-C++-FE428E?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter%20&%20Dart-FE428E?style=flat-square&logo=flutter&logoColor=white" />
-</p>
+<br>
 
----
+### 🕵️‍♂️ System Status
+- 🎓 **Studying:** Artificial Intelligence & Cybersecurity at MUFAI (Menoufia University).
+- 💻 **Tech Interests:** Building scalable mobile/web apps, Vulnerability Assessment, and securing networks.
+- 🏆 **Hackathons:** Active competitor (NASA Space Apps, Tech Spark, Hult Prize, Delta Cities).
+- ⚡ **Fun Fact:** I survive on VS Code Neon Themes, good coffee, and finding system vulnerabilities.
 
-### 👨‍💻 System Status
-- 🔭 **Studying:** **Cybersecurity at MUFAI (Faculty of AI, Menoufia University)**. 🤖
-- 💻 **Tech Interests:** Building **scalable mobile apps** (Flutter/Dart), writing clean, **object-oriented C++** code, and securing it all.
-- 🌙 **Fun Fact:** I run on VS Code Neon Themes, good coffee, and lots of caffeine. ☕
-- 🛡️ **Hackathon Addict** & always learning how to secure systems.
+<br>
 
-### 🛠️ Tech Stack <kbd>System.init()</kbd>
-<p align="center">
+### 🛠️ Tech Stack `System.Init()`
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,c,python,bash,github,vscode,linux,kali&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,php,dart,flutter,firebase,git,github,linux,kali,html,css" alt="My Skills" />
   </a>
-</p>
+</div>
 
-### 📈 Contribution Stats <kbd>System.status()</kbd>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourelsharkawy6300-maker&layout=compact&theme=radical&hide_border=true&bg_color=141321" alt="Nour's Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nourelsharkawy6300-maker&show_icons=true&theme=radical&hide_border=true&bg_color=141321" alt="Nour's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourelsharkawy6300-maker&theme=radical&hide_border=true&bg_color=141321" alt="Nour's GitHub Streak" />
-</p>
+<br>
 
----
-<p align="center">
-  Let's connect and secure something awesome! 🛡️⚡
-</p>
-# Hi there 👋, I'm Nour El-Sharkawy
-
-**Artificial Intelligence Student | Cybersecurity Enthusiast | Full-Stack Developer**
-
-I am a second-year AI student with over 250+ hours of intensive, hands-on training in network security and application vulnerability assessment. I thrive in competitive environments and enjoy building secure, AI-driven software prototypes.
-
-### 🛠️ Tech Stack & Tools
-- **Cybersecurity:** Penetration Testing, Network Security, Vulnerability Assessment, OWASP.
-- **Development:** PHP, Python, C++, Flutter, Dart.
-- **Databases & Tools:** Firebase, Git/GitHub, Rapid Prototyping.
-
-### 🚀 What I'm Up To
-- 🎓 Studying Artificial Intelligence at Menoufia University.
-- 🛡️ Applying advanced network defense and penetration testing methodologies learned through NTI and ITIDA.
-- 🏆 Actively competing in regional and global tech hackathons (Hult Prize, NASA Space Apps, Tech Spark).
-- 🤝 Participating in GDG Menoufia and actively contributing to student tech communities.
-
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/nour-mawhoub](https://linkedin.com/in/nour-mawhoub)
-- **Email:** nourelsharkawy6300@gmail.com
+### 📊 Contribution Stats `System.Status()`
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourelsharkawy6300-maker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nourelsharkawy6300-maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
